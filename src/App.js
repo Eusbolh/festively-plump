@@ -1,13 +1,9 @@
-import React, { Component } from 'react';
+import React from 'react';
+import Home from "modules/home/Home.js";
+import 'App.scss';
 
-class App extends Component {
-  render() {
-    return (
-      <div>
-        Hello, stranger!
-      </div>
-    );
-  }
-}
+const App = () => (
+  <Home />
+)
 
 export default App;
