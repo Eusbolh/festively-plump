@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@blueprintjs/core": "^3.10.0",
     "carbon-components": "^9.62.3",
     "carbon-components-react": "^6.63.0",
     "carbon-icons": "^7.0.7",
